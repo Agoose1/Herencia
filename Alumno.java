@@ -4,7 +4,7 @@ package prueba;
  *
  * @author agustin
  */
-//Codigo clase profesor
+//Codigo clase alumno
 public class Alumno extends Persona {
     //campos especificos de la subclase
 
